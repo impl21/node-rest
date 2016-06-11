@@ -1,0 +1,24 @@
+{
+  "name": "node-rest",
+  "version": "1.0.0",
+  "description": "Node.js REST service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impl21/node-rest.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "rest"
+  ],
+  "author": "impl21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/impl21/node-rest/issues"
+  },
+  "homepage": "https://github.com/impl21/node-rest#readme"
+}
